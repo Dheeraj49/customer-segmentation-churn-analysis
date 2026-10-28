@@ -1,0 +1,12 @@
+# Raw and large data files (download from the links in README.md)
+1_DATA/online_retail_II.xlsx
+1_DATA/*.csv.gz
+1_DATA/retail_clean.csv
+1_DATA/retail_rfm_input.csv
+1_DATA/telco_churn.csv
+1_DATA/telco_clean.csv
+
+# Jupyter and system files
+.ipynb_checkpoints/
+desktop.ini
+Thumbs.db

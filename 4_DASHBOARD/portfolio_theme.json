@@ -1,0 +1,102 @@
+{
+  "name": "Dheeraj Portfolio",
+  "dataColors": [
+    "#0F3D73",
+    "#F5A623",
+    "#1E88E5",
+    "#E5484D",
+    "#2E8B57",
+    "#8E44AD",
+    "#7F8C8D",
+    "#16A085"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1B1B1B",
+  "tableAccent": "#0F3D73",
+  "good": "#2E8B57",
+  "neutral": "#F2C94C",
+  "bad": "#E5484D",
+  "maximum": "#0F3D73",
+  "center": "#F2F2F2",
+  "minimum": "#E5484D",
+  "textClasses": {
+    "callout": {
+      "fontSize": 34,
+      "fontFace": "Segoe UI Bold",
+      "color": "#0F2A4A"
+    },
+    "title": {
+      "fontSize": 18,
+      "fontFace": "Segoe UI Bold",
+      "color": "#0F2A4A"
+    },
+    "header": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1B1B1B"
+    },
+    "label": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#4B5563"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E3E8EF"
+              }
+            },
+            "radius": 12
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "subTitle": [
+          {
+            "show": true,
+            "fontSize": 12,
+            "fontColor": {
+              "solid": {
+                "color": "#6B7280"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F2F5FA"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
